@@ -6,6 +6,12 @@ Strategy & systems thinker working at the intersection of technology, trust, and
 DBA candidate in Switzerland  
 Focus: scalable systems across fragmented markets (CH ↔ EMEA)
 
+
+- Trade execution systems (Helvix)
+- Digital trust & verification layers (VerfiX)
+- Accessibility infrastructure (insignERA)
+- ideation (LeMAX)
+
 ---
 
 ## What I work on
