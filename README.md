@@ -53,8 +53,9 @@ Focus:
 ---
 
 ## Contact
-ahmed@ahmed-alsultan.me
-0765465642
-https://www.linkedin.com/in/ahmed-al-sultan/
-LinkedIn:  
-Email:
+
+
+
+LinkedIn: https://www.linkedin.com/in/ahmed-al-sultan/ 
+Email:ahmed@ahmed-alsultan.me
+mobile: 0765465642
